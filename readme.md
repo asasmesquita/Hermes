@@ -5,7 +5,7 @@ Actions
 - use llm provided, ollama local,  embeddings for each entry in the db, store locally and run before app is served
 - use streamlit as frontend
 - get embedding from prompt
-- compare with cosine similarity
+- compare with Euclidean distance
 - present to user sorted by proximity
 
 Architectural options
